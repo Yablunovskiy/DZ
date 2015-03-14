@@ -1,0 +1,6 @@
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\bin\Debug\Yellow_Submarin.exe.config
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\obj\Debug\Yellow_Submarin.csprojResolveAssemblyReference.cache
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\bin\Debug\Yellow_Submarin.exe
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\bin\Debug\Yellow_Submarin.pdb
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\obj\Debug\Yellow_Submarin.exe
+D:\Учеба\С#_5.0\DZ\DZ_14.03.15\Yellow_Submarin\Yellow_Submarin\obj\Debug\Yellow_Submarin.pdb
