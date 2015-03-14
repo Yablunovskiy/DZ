@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AntishipTorpedoes.cs" />
     <Compile Include="Anti_submarineTorpedoes.cs" />
+    <Compile Include="Iship.cs" />
     <Compile Include="ITarget.cs" />
     <Compile Include="ITypeOfTorpedoes.cs" />
     <Compile Include="Program.cs" />
